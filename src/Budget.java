@@ -1,4 +1,11 @@
 import java.util.*;
+/**
+ * The Budget class is designed to manage the budget for a specific category.
+ * It allows tracking expenses, verifying if the budget is exceeded, and calculating
+ * the remaining budget.
+ *  @author Akshat Patel
+ */
+
 public class Budget {
     // The category for which this budget applies (e.g., "Food", "Rent").
     private String category;

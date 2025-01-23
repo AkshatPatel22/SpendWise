@@ -1,5 +1,11 @@
 import java.time.LocalDate;
-
+/**
+ * The Expense class represents a single financial transaction.
+ * This class provides methods to retrieve the details of an expense
+ * and a custom string representation for easy display.
+ *
+ * @author Akshat Patel
+ */
 public class Expense {
     private double amount;
     private String category;

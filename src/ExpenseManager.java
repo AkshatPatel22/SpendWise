@@ -3,7 +3,8 @@ import java.util.*;
 /**
  * The ExpenseManager class handles the management of expenses and budgets.
  * It allows tracking of individual expenses, setting budgets, and checking budget status.
- */
+ * @author Akshat Patel
+ * */
 public class ExpenseManager {
 
     // List to store all recorded expenses.

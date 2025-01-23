@@ -10,10 +10,15 @@ import javafx.stage.Stage;
 import java.time.LocalDate;
 
 /**
- * SpendWiseApp.java
- * A simplified JavaFX-based expense tracking application
- * @author Akshat Patel
- * Date: 21/01/2025
+ * SpendWiseGUI.java
+ * A simplified JavaFX-based expense tracking application for users to track their daily expenses.
+ * Features include adding expenses, setting budgets, and viewing total and monthly expenses.
+ *
+ * Purpose:
+ * This application demonstrates the use of JavaFX for creating GUI-based applications while
+ * implementing basic expense tracking functionalities.
+ *
+ * @author  Akshat Patel
  */
 public class SpendWiseGUI extends Application {
 
